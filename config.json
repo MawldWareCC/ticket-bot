@@ -1,12 +1,12 @@
 {
-  "prefix": "",
-  "main_token": "",
+  "prefix": "dh!",
+  "main_token": "MTAxMjkyNTA0MTQ5NjgzODI2NA.G7AJIQ.-sTw8z0BH_bxs16mDCwH2ijZG-0UE02j_zsHso",
   "developers": [""],
   "bot_name":"",
   "emoji":"",
   "color":"",
-  "ticket_limit":"",
-  "support_role_id":"",
-  "category_id":"",
-  "log_channel_id":""
+  "ticket_limit":"1",
+  "support_role_id":"1028493118057742346",
+  "category_id":"1147242752162148362",
+  "log_channel_id":"1147319374907195422"
 }
